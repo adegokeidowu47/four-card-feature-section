@@ -5,7 +5,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [The Gridchallenge](#the-grid-challenge)
+  - [The Grid challenge](#the-grid-challenge)
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with HTML & CSS](#built-with-HTML-&-CSS)
@@ -36,9 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL for the respositry here](https://github.com/adegokeidowu47/four-card-feature-section)
+- Solution URL: (https://github.com/adegokeidowu47/four-card-feature-section)
 
-- Live Site URL: [Add live site URL here](https://adegokeidowu47.github.io/four-card-feature-section/)
+- Live Site URL: (https://adegokeidowu47.github.io/four-card-feature-section/)
 
 ## My process
 - Mark up with HTML5, How the web will look like and its contents
@@ -89,5 +89,5 @@ Users should be able to:
 - **[Resource 2](Niederst Robbins, Jennifer - Learning Web Design _ A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics-O’Reilly Media (2018))** - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics by O’Reilly Media (2018) is an excellent textbook that greatly enhanced my understanding of the CSS Grid property and its various values. I highly recommend it to anyone still learning or seeking to strengthen their grasp of this concept.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@@adegokeidowu47](https://www.frontendmentor.io/profile/@adegokeidowu47)
 - Twitter - [@Adegokeidowu20](https://www.twitter.com/Adegokeidowu20)
