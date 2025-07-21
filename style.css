@@ -27,7 +27,7 @@
     padding: 3em 1.5em;
     align-items: start;
     flex-direction: column;
-    background-color: hsl(0, 100%, 99%);
+    background-color: hsla(0, 0%, 100%, 1.00);
 }
 
 header {
@@ -55,7 +55,7 @@ header .powered {
 }
 
 header p {
-    width: 100%;
+    width: 75%;
     height: auto;
     text-align: center;
     font-size: .9rem;
