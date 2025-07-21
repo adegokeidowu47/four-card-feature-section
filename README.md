@@ -89,5 +89,5 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - **[Resource 2](Niederst Robbins, Jennifer - Learning Web Design _ A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics-O’Reilly Media (2018))** - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics by O’Reilly Media (2018) is an excellent textbook that greatly enhanced my understanding of the CSS Grid property and its various values. I highly recommend it to anyone still learning or seeking to strengthen their grasp of this concept.
 
 ## Author
-- Frontend Mentor - [@adegokeidowu47](https://www.frontendmentor.io/profile/@adegokeidowu47)
+- Frontend Mentor - [Adegoke Idowu(Shaddy)](https://www.frontendmentor.io/profile/adegokeidowu47)
 - Twitter - [@Adegokeidowu20](https://www.twitter.com/Adegokeidowu20)
