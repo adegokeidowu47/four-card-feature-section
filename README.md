@@ -22,13 +22,13 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 Users should be able to:
 
-- Responsiveness is one of the important things to take note while designing a website across every screen that can access it. And the View of the optimal layout for the site depending on their device's screen size. 
-  This  challenge enlighten me more on how to use Grid layout to present a good and responsive website. I learnt a lot.
-
+- Responsiveness is a critical factor in modern web design, ensuring that websites adapt seamlessly across all screen sizes and devices. An optimal layout enhances usability and provides a consistent user experience, whether accessed on a phone, tablet, or desktop. This challenge significantly improved my understanding of responsive design principles—particularly the effective use of CSS Grid to structure layouts. It was a valuable learning experience that strengthened my ability to build flexible and visually balanced websites.
 
 ### Screenshot
-
+- Screenshot of large screen final design.
 ![](images/Screenshot%202025-07-20%20at%2017-26-09%20Frontend%20Mentor%20Four%20card%20feature%20section.png)
+
+- Screenshot of mobile final design.
 ![](images/Screenshot%202025-07-20%20at%2017-35-18%20Frontend%20Mentor%20Four%20card%20feature%20section-mobile.png)
 
 
@@ -36,8 +36,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL for the respositry here](https://github.com/adegokeidowu47/four-card-feature-section)
+
+- Live Site URL: [Add live site URL here](https://adegokeidowu47.github.io/four-card-feature-section/)
 
 ## My process
 - Mark up with HTML5, How the web will look like and its contents
@@ -83,10 +84,9 @@ Users should be able to:
 
 ### Useful resources
 
-- [Resource 1](https://www.frontendMentor.com/learning-path) - Thier article has helped me a lot, especially the reference tutorial materials gave me more insight. I really liked this pattern and will use it going forward.
+- **[Resource 1](https://www.frontendMentor.com/learning-path)** - The article was incredibly helpful, especially the referenced tutorial materials, which provided deeper insight and clarity. I found the design pattern particularly effective and plan to adopt it in my future projects.
 
-- [Resource 2](Niederst Robbins, Jennifer - Learning Web Design _ A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics-O’Reilly Media (2018)) - This is an amazing textbook which helped me finally understand the usage of Grid propery and their respective values. I'd recommend it to anyone still learning this concept.
-
+- **[Resource 2](Niederst Robbins, Jennifer - Learning Web Design _ A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics-O’Reilly Media (2018))** - A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics by O’Reilly Media (2018) is an excellent textbook that greatly enhanced my understanding of the CSS Grid property and its various values. I highly recommend it to anyone still learning or seeking to strengthen their grasp of this concept.
 
 ## Author
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
